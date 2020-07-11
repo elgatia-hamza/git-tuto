@@ -17,3 +17,14 @@ Commit:
 git commit -m 'name of your commit'
 
 
+Push :
+$ git push origin BRANCH_NAME
+
+Pull: 
+$ git pull origin BRANCH_NAME
+
+Merge:
+$ git marge BRANCH_NAME
+
+
+
