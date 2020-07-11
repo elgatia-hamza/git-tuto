@@ -1,0 +1,9 @@
+Initialisation:
+git init
+
+Configuration:
+git config --global user.username ''your username"
+git config --global user.name ''your name''
+git config --global user.email ''your email'
+git config --list
+
