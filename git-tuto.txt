@@ -1,3 +1,6 @@
+***********************
+*     Git Tutoriel           *
+***********************
 Initialisation:
 git init
 
